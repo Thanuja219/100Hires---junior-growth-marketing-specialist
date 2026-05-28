@@ -9,14 +9,14 @@
 
 ## Steps Completed
 
-1. Installed Cursor IDE.
-2. Opened Extensions in Cursor and installed the **Claude Code** add-on.
-3. Opened Extensions in Cursor and installed the **Codex** add-on.
-4. Logged in to both extensions.
-5. Created a public GitHub repository.
+1. Installed Cursor IDE. *(manual step in desktop app)*
+2. Opened Extensions in Cursor and installed the **Claude Code** add-on. *(manual step in desktop app)*
+3. Opened Extensions in Cursor and installed the **Codex** add-on. *(manual step in desktop app)*
+4. Logged in to both extensions. *(manual authentication step)*
+5. Created a public GitHub repository. *(manual step on GitHub web)*
 6. Opened the repository in Cursor.
 7. Created this `README.md` documenting setup and progress.
-8. Initialized local git (if needed), committed changes, and prepared to push to GitHub.
+8. Initialized local git, committed changes, and prepared to push to GitHub.
 
 ## Issues Encountered and How They Were Solved
 
